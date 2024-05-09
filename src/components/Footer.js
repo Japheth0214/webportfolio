@@ -16,7 +16,7 @@ function Footer() {
           <h3>Designed and Developed by Japheth Arcilla</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Made with Render {year} </h3>
+          <h3>Made with Vercel {year} </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
