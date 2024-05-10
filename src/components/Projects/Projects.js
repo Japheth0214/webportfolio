@@ -49,7 +49,7 @@ function Projects() {
               imgPath={proj3}
               isBlog={false}
               title="Mini Ecommerce"
-              description="Our simple e-commerce site allows users to easily add items to their cart, make purchases, and calculate the estimated total amount before proceeding to checkout. The site enables smooth functionality for adding and removing items from the cart."
+              description="My simple e-commerce site allows users to easily add items to their cart, make purchases, and calculate the estimated total amount before proceeding to checkout. The site enables smooth functionality for adding and removing items from the cart."
               ghLink="https://github.com/Japheth0214/shopping-cart"
               demoLink="https://japheth0214.github.io/shopping-cart/index.html"
             />
