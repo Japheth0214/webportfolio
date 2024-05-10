@@ -40,7 +40,7 @@ function Projects() {
               title="Little Lemon"
               description="This website demonstrates the implementation of a booking application on the Little Lemon Website, utilizing React components to showcase a solid understanding of React in web development.The project also highlights the integration of API calls, adding functionality and enhancing the overall user experience."
               ghLink="https://github.com/Japheth0214/littlelemon-app"
-              demoLink="https://little-lemon-app-m0qh.onrender.com/"
+              demoLink="https://littlelemon-reservation.vercel.app/"
             />
           </Col>
 
