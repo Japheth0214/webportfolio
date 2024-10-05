@@ -12,9 +12,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Japheth James Arcilla </span>
             from <span className="purple"> Manila, Philippines.</span>
             <br />
-            I am currently a full-time <span className="purple">IT Support </span> at <span className="purple">Omniquest Inc.</span>
+            I am currently a full-time <span className="purple">System Admin </span> at <span className="purple">Omniquest Inc.</span>
             <br />
-            And working as a part-time <span className="purple">Meta Developer </span> at <span className="purple">BruntWork</span>
+            And working as a part-time <span className="purple">Developer Analyst </span> at <span className="purple">BruntWork</span>
             <br />
             I have a bachelor's degree in <span className="purple">Bachelor of Science in Information Technology</span>
             <br />

@@ -10,7 +10,8 @@ function Type() {
           "Software Engineer",
           "MERN Stack Developer",
           "Software Quality Analyst",
-          "IT Support",
+          "System Admin",
+          "Developer Analyst",
           "Freelancer",
           
         ],
