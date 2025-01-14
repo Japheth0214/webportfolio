@@ -40,22 +40,22 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Software Quality
+                  Software Development
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I also apply my passion for achieving agility within my development team by
+               <b className="purple"> fostering collaboration </b>,
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  removing roadblocks,
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; and
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> and ensuring smooth sprint cycles that lead to successful deployments.</b>
               </i>
             </p>
           </Col>
