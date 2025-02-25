@@ -12,7 +12,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Japheth James Arcilla </span>
             from <span className="purple"> Manila, Philippines.</span>
             <br />
-            I am currently a full-time <span className="purple">IT Consultant </span> at <span className="purple">Omniquest Inc.</span>
+            I am currently a full-time <span className="purple">System Consultant </span> at <span className="purple">Omniquest Inc.</span>
             <br />
             And working as a part-time <span className="purple">Developer Analyst </span> at <span className="purple">BruntWork</span>
             <br />
